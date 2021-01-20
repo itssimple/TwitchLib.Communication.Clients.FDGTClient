@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>TwitchLib.Communication.Clients</RootNamespace>
+    <Authors>NoLifeKing85 / itssimple</Authors>
+    <Company />
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>This package allows you to connect to FDGT to test out your Twitch integrations (Websocket)</Description>
+    <Copyright>© 2021</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="TwitchLib.Communication" Version="1.0.3" />
+  </ItemGroup>
+
+</Project>
