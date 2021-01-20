@@ -1,4 +1,6 @@
 # TwitchLib.Communication.Clients.FDGTClient
+[![Nuget](https://img.shields.io/nuget/v/TwitchLib.Communication.Clients.FDGTClient)](https://www.nuget.org/packages/TwitchLib.Communication.Clients.FDGTClient/)
+[![Nuget](https://img.shields.io/nuget/dt/TwitchLib.Communication.Clients.FDGTClient)](https://www.nuget.org/packages/TwitchLib.Communication.Clients.FDGTClient/)
 
 This client allows you to connect to [FDGT](https://fdgt.dev)
 
